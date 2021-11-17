@@ -9,7 +9,22 @@
   <li>Descriptive Statistics of Data</li>
   <li>Data Cleaning</li>
   <ul>
-    <li>Handling Missing Values</li>
+    <li>Handling <strong>Missing Values</strong></li>
+    <li>Distribution of Target Column</li>
+    <li>Average Purchase based on <strong>Gender</strong> Column</li>
+    <li>Average Purchase based on <strong>Age</strong> Column</li>
+    <li>Average Purchase based on <strong>Occupation</strong> Column</li>
+    <li>Average Purchase based on <strong>Marital Status</strong> Column</li>
+    <li>Average Purchase based on <strong>City</strong> Column</li>
+    <li>Visualization of <strong>Gender and Age</strong> Columns Together</li>
+    <li>Visualization of <strong>Product Categories</strong></li>
+    <li><strong>Correlation Matrix</strong></li>
+    <li>Handling <strong>Categorical Features</strong></li>
+  </ul>
+  <li>Model Building</li>
+  <ul>
+    <li><strong>ExtraTreeRegressor Model</strong></li>
+    <li><strong>GradientBoostingRegressor</strong></li>
   </ul>
 </ul>
 
